@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afrimdev or Afrim
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning react. 
+- 🌱 I’m currently learning rust <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="30"/>. 
 - 💞️ I’m looking to collaborate on something... reach out.
 - 📫 How to reach me ? You can say hi@afrim.dev
 
